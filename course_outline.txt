@@ -1,0 +1,40 @@
+--- Q1 ---
+
+Lesson: Intro to Python
+Lesson: Guess-a-Number
+Project: Rock, Paper, Scissors
+
+Lesson: Strings
+Lesson: Lists
+
+Lesson: Play Again
+Lesson: Rabbit Attack
+Project: Pig
+
+Lesson: File IO
+Project: Hangman
+
+--- Q2 ---
+
+Lesson: Lists
+
+Project: Lexicant
+
+Lesson: Dictionaries
+
+Semester Exam
+
+--- Q3 ---
+
+Lesson: Intro to Pygame Graphics
+Lesson: Collisions (no Sprites)
+
+Project: Flappy Coin
+Project: Space Invaders
+
+--- Q4 ---
+
+Project: Tron
+Project: Platformer
+
+Final Exam
