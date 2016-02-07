@@ -1,16 +1,16 @@
 --- Q1 ---
 
 Lesson: Intro to Python
+Lesson: Random Numbers
 Lesson: Guess-a-Number
 Project: Rock, Paper, Scissors
-
-Lesson: Strings
-Lesson: Lists
 
 Lesson: Play Again
 Lesson: Rabbit Attack
 Project: Pig
 
+Lesson: Strings
+Lesson: Lists
 Lesson: File IO
 Project: Hangman
 
@@ -18,23 +18,32 @@ Project: Hangman
 
 Lesson: Lists
 
-Project: Lexicant
+Project: Lexicant (was this fun? maybe eliminatate this project.)
 
 Lesson: Dictionaries
+Lesson: JSON
+Project: Contact Manager
+Project: PyTunes
 
-Semester Exam
+Semester Exam (needs to be updated to include JSON)
 
 --- Q3 ---
 
 Lesson: Intro to Pygame Graphics
 Lesson: Collisions (no Sprites)
-
 Project: Flappy Coin
+
+Lesson: OOP
 Project: Space Invaders
+Project: Tron
+
 
 --- Q4 ---
 
-Project: Tron
 Project: Platformer
+
+Lesson: tkinter
+Lesson: Networking
+Project: Pyneapples to Pyneapples
 
 Final Exam
