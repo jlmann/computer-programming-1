@@ -1,4 +1,7 @@
---- Q1 ---
+# Computer Programming 1
+## Course Outline
+
+### Q1
 
 Lesson: Intro to Python
 Lesson: Random Numbers
@@ -6,15 +9,15 @@ Lesson: Guess-a-Number
 Project: Rock, Paper, Scissors
 
 Lesson: Play Again
-Lesson: Rabbit Attack
+Lesson: [Rabbit Attack](https://github.com/jlmann/rabbit-attack.git)
 Project: Pig
 
 Lesson: Strings
-Lesson: Lists
+Lesson: [Lists](https://github.com/jlmann/python-lists.git)
 Lesson: File IO
 Project: Hangman
 
---- Q2 ---
+### Q2
 
 Lesson: Lists
 
@@ -27,7 +30,7 @@ Project: PyTunes
 
 Semester Exam (needs to be updated to include JSON)
 
---- Q3 ---
+### Q3
 
 Lesson: Intro to Pygame Graphics
 Lesson: Collisions (no Sprites)
@@ -38,7 +41,7 @@ Project: Space Invaders
 Project: Tron
 
 
---- Q4 ---
+### Q4
 
 Project: Platformer
 
